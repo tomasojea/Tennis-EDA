@@ -12,4 +12,7 @@ Exploratory Data Analysis of a [Kaggle dataset](https://www.kaggle.com/gmadevs/a
 
 <img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=200 height=50>
 
+![Tomas Ojea](https://avatars0.githubusercontent.com/u/29666009?s=460&u=a9676061514c0ef3cd0df520656475be76ee7ed5&v=4)|
+-|
+Tomas Ojea|)
 
